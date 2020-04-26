@@ -22,7 +22,7 @@ Its known as : A way to style a text on the web. where its easy and lightweight 
 ###### conclusion
 Some opinions said for its uses and its simplicity, GitHup favorite the Markdown. So you can do tour project in easy way,short time and with many themes exsist.
 
-If you want to know more about Markdown and GitHup vist (http://www.github.com/)
+If you want to know more about Markdown and GitHup vist their [website](http://www.github.com/)
 
 
 
