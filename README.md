@@ -1,10 +1,23 @@
-## Welcome to GitHub Pages
+#Markdown as an easy tool to develop your website!
 
-You can use the [editor on GitHub](https://github.com/MohammedGhafri/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
+As its an easy tool, it must have an easy defintion.
+Its known as : A way to style a text on the web. where its easy and lightweight and easy to use syntax for styling your writting and your ideas.
+
+## Uses :
+1. Make your text more attractive.
+
+2. Use different text tools such as **bold** and *Italic*
+
+3. you can use a code
+
+4. Numberd list 1. 2. 3. ...etc
+
+5. Bullted list 
+
+6. Put links and images.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +36,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://i.ytimg.com/vi/HndN6P9ke6U/maxresdefault.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
