@@ -26,9 +26,10 @@ And Git have Graphical Clients you can access it [Here](https://git-scm.com/down
 After making sure Git has been installed, you should perform some customization steps.
 After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
 It can be done by 
+
 **git config --global user.name "MohammedGHafri"**
 
-**git config --global user.email **"eng.m.ghafri@gmail.com"**
+**git config --global user.email "eng.m.ghafri@gmail.com"**
 
 To confirm that you have the correct settings, enter the following command:
 git config --global user.name and it should return MohammedGHafri.
@@ -56,7 +57,7 @@ git config --global user.email and should return eng.m.ghafri@gmail.com.
 ## Remote Repositories
 Teams can use remote repositories to push information to and pull data from.
 Git will give "origin" to the server from which you cloned and the name “master” to your local branch.
-You can **see** yor Remotes by command **Git remote**, it will view the short name such as origins and by using git remote -v, you can view all the remote URLs next to their corresponding short names.
+You can **see** yor Remotes by command **Git remote**, it will view the short name such as origins and by using **git remote -v**, you can view all the remote URLs next to their corresponding short names.
 
 # The End
 
