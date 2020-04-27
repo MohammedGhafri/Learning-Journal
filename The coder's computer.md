@@ -68,3 +68,11 @@ Lets speak about some editors that can be used in web development :
 
 ## The Difference Between Text Editors and IDEs
 
+#### IDEs -which known as (Integrated Development Environment)-is a text editor, a file manager, a compiler, and a debugger all in one software package.While you might not be ready, or have the need to use a compiler, or a debugger when you’re just starting out in web development, you’ll get to see how an IDE operates in your text editing software. When you’re ready to use an IDE, you’ll be more confident in how to use it because you’ll already had some experience with it by using your text editor.
+
+
+
+##### The Older Coder
+> So, I’ll start using that updated text editor for a while, and in the meanwhile, the others will be updated. So, I’ll start using those ones.
+
+### The End.
