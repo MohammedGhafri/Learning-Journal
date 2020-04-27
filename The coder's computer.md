@@ -1,4 +1,3 @@
-# The Coder's computer
 # The Coder's computer and its tools
 
 #### As we know if we do want to devlope a web site we need some thing help us to talk with machine to do it.
@@ -40,4 +39,32 @@ Lets speak about some editors that can be used in web development :
 ####    TextWrangler is for Mac computers only, and you used to be able to download it from the Mac App Store.
 
 3.Visual Studio Code
+
+
+![](https://nsa39.casimages.com/img/2018/10/26/181026123144609102.jpg)
+
+#### Visual Studio Code is a free text editor made by the folks at Microsoft.It is available for Windows computers, Mac computers and Linux computers
+
+4. Atom
+
+
+![](https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460045195/p7mjkfz5ic3pyjxah2db.png)
+
+#### Atom is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. Atom is brought to you by the folks at GitHub . GitHub is a great service online where you can host and review code, or you can post and get help with the development of your own projects
+
+5. Brackets
+
+
+![](https://lh3.googleusercontent.com/proxy/-4DhNP7EJdEu59yAYKFJ3Q6s3zujzyo72FoQ7O0VWshtF5n3z3dlRRozvblGbj9DFDkLMlaX7FMAMB3qusgpz9B7DyMroJvBEsISwq8p71e-Y0-Cpm0cf8KstTN9G00YZwKF)
+
+#### Brackets is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. It’s made and maintained by the good folks at Adobe—yep, the Photoshop people
+
+6. Sublime Text
+
+![](https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png)
+
+#### It has syntax highlighting, it has code completion, it has themes and extensions.
+
+
+## The Difference Between Text Editors and IDEs
 
