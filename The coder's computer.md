@@ -72,7 +72,7 @@ Lets speak about some editors that can be used in web development :
 
 
 
-##### The Older Coder
+##### The Older Coder :
 > So, I’ll start using that updated text editor for a while, and in the meanwhile, the others will be updated. So, I’ll start using those ones.
 
 ### The End.
