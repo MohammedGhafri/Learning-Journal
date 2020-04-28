@@ -71,3 +71,18 @@
 #### and you can align the image verttically by type Top or Middle or Bottom in align code with image code
 
 #### The beauty and attractiveness of the site must concern the edit tools to edit the images to be attractive and beauty.
+
+## The different version of **HTML**
+
+### Since the web was first created, there have been several different versions of HTML.Each new version was designed to be an improvement on the last version.
+
+1. HTML 4 :released in 1997
+2. XHTML 10 :released 2000
+3. HTML 5 : released 2000
+
+### All of these types must begin with a DOCTYPE decleration.
+### if you want to add a comment type <!....> and if you want to ifentify an element from anonther type id="name of element" and the inline element known as to continue appearing on the same line such as <a> <b><em>and <img>
+
+## The END
+
+
