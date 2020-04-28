@@ -59,6 +59,8 @@ Teams can use remote repositories to push information to and pull data from.
 Git will give "origin" to the server from which you cloned and the name “master” to your local branch.
 You can **see** yor Remotes by command **Git remote**, it will view the short name such as origins and by using **git remote -v**, you can view all the remote URLs next to their corresponding short names.
 
+> more new things you learn, more happiness you get.
+
 # The End
 
 
