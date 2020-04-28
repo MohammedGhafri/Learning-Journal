@@ -81,7 +81,8 @@
 3. HTML 5 : released 2000
 
 ### All of these types must begin with a DOCTYPE decleration.
-### if you want to add a comment type <!....> and if you want to ifentify an element from anonther type id="name of element" and the inline element known as to continue appearing on the same line such as <a> <b><em>and <img>
+### if you want to add a comment type <!....> and if you want to ifentify an element from anonther type id="name of element" and the inline element known as to continue appearing on the same line such as 
+` <a> <b> <em> and <img>`
 
 ## The END
 
